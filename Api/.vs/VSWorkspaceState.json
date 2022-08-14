@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApi",
+    "\\WebApi\\WebApi",
+    "\\WebApi\\WebApi\\Controllers",
+    "\\WebApi\\WebApi\\Models"
+  ],
+  "SelectedNode": "\\WebApi\\WebApi\\Controllers\\CategoryController.cs",
+  "PreviewInSolutionExplorer": false
+}
